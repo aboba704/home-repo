@@ -1,0 +1,10 @@
+a
+b
+c
+
+Down
+Down
+Ctrl+X
+Up
+Up
+Ctrl+V
