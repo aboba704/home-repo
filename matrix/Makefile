@@ -21,7 +21,7 @@ else
 endif
 
 # Основная цель
-all: s21_matrix.a
+all: test
 
 # Правило для создания объектных файлов
 $(OBJ_DIR)/%.o: %.c | $(OBJ_DIR)

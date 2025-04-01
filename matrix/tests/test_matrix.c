@@ -8,8 +8,7 @@ double get_rand(double min, double max) {
 int main() {
   int failed = 0;
   Suite *s21_matrix_test[] = {
-      test_create_matrix(),
-      // test_remove_matrix(),  test_eq_matrix(),
+      test_create_matrix(), test_eq_matrix(),
       //  test_sum_matrix(),    test_sub_matrix(),     test_mult_number(),
       //  test_mult_matrix(),   test_transpose(),      test_calc_complements(),
       // test_determinant(), test_inverse_matrix(),
